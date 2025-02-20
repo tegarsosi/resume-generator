@@ -10,6 +10,7 @@ on:
     paths:
       - 'markdowns/resume_eng.md'
       - 'markdowns/resume_ger.md'
+      - 'templates/*'
 
 jobs:
   convert:
