@@ -8,7 +8,8 @@ on:
     branches:
       - main
     paths:
-      - 'resume_*.md'
+      - 'markdowns/resume_eng.md'
+      - 'markdowns/resume_ger.md'
 
 jobs:
   convert:
@@ -24,32 +25,33 @@ jobs:
       
       - name: Convert MD to PDF
         run: |
-          # List all markdown files for debugging
-          echo "Found markdown files:"
-          find . -name "resume_*.md" -type f
+          # Create pdfs directory if it doesn't exist
+          mkdir -p pdfs
           
-          # Convert each file
-          find . -name "resume_*.md" -type f | while read file; do
-            echo "Converting $file to PDF"
-            pdf_file="${file%.md}.pdf"
-            pandoc "$file" -o "$pdf_file"
-            echo "Generated $pdf_file"
-          done
+          # Convert English resume if it exists
+          if [ -f "markdowns/resume_eng.md" ]; then
+            echo "Converting English resume"
+            pandoc markdowns/resume_eng.md -o pdfs/resume_eng.pdf
+          fi
           
-          # List generated PDFs
-          echo "Generated PDF files:"
-          find . -name "resume_*.pdf" -type f
+          # Convert German resume if it exists
+          if [ -f "markdowns/resume_ger.md" ]; then
+            echo "Converting German resume"
+            pandoc markdowns/resume_ger.md -o pdfs/resume_ger.pdf
+          fi
       
       - name: Commit PDF
         run: |
-          # Only proceed if PDFs exist
-          if find . -name "resume_*.pdf" -type f | grep -q .; then
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            find . -name "resume_*.pdf" -type f -exec git add {} \;
-            git commit -m "Auto-generate PDF from markdown" || exit 0
-            git push
-          else
-            echo "No PDFs to commit"
-            exit 0
-          fi 
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add PDFs if they exist
+          if [ -f "pdfs/resume_eng.pdf" ]; then
+            git add pdfs/resume_eng.pdf
+          fi
+          if [ -f "pdfs/resume_ger.pdf" ]; then
+            git add pdfs/resume_ger.pdf
+          fi
+          
+          git commit -m "Auto-generate PDF from markdown" || exit 0
+          git push 
