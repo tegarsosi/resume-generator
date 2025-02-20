@@ -39,7 +39,7 @@ September 2022 - Dezember 2022, Berlin
 
 ## Ausbildung
 
-**B.Sc. Informatik**
+**B.Sc. Mechatronik**
 HAW Hamburg
 03/2018 - 09/2023
 Abschlussnote: 2,13

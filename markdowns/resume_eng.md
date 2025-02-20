@@ -40,7 +40,7 @@ September 2022 - December 2022, Berlin, Germany
 
 ## Education
 
-**Computer Science B.Sc., HAW Hamburg**  
+**Mechatronics B.Sc., HAW Hamburg**  
 March 2018 - September 2023, Hamburg, Germany  
 - GPA: 2.13
 
