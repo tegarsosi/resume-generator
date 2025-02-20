@@ -26,29 +26,27 @@ jobs:
         run: |
           # List all markdown files for debugging
           echo "Found markdown files:"
-          ls resume_*.md || echo "No markdown files found"
+          find . -name "resume_*.md" -type f
           
           # Convert each file
-          for file in resume_*.md; do
-            if [ -f "$file" ]; then
-              echo "Converting $file to PDF"
-              pdf_file="${file%.md}.pdf"
-              pandoc "$file" -o "$pdf_file"
-              echo "Generated $pdf_file"
-            fi
+          find . -name "resume_*.md" -type f | while read file; do
+            echo "Converting $file to PDF"
+            pdf_file="${file%.md}.pdf"
+            pandoc "$file" -o "$pdf_file"
+            echo "Generated $pdf_file"
           done
           
           # List generated PDFs
           echo "Generated PDF files:"
-          ls resume_*.pdf || echo "No PDF files generated"
+          find . -name "resume_*.pdf" -type f
       
       - name: Commit PDF
         run: |
           # Only proceed if PDFs exist
-          if ls resume_*.pdf 1> /dev/null 2>&1; then
+          if find . -name "resume_*.pdf" -type f | grep -q .; then
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
-            git add resume_*.pdf
+            find . -name "resume_*.pdf" -type f -exec git add {} \;
             git commit -m "Auto-generate PDF from markdown" || exit 0
             git push
           else
