@@ -1,12 +1,14 @@
 ---
-geometry:
-- margin=1.5cm
+margin-left: 2cm
+margin-right: 2cm
+margin-top: 1cm
+margin-bottom: 2cm
+title: Tegar Sosi Everest
+author:
+  - tegarsosi
 ---
 
-# Tegar Sosi Everest
-
-[tegar.sosi@gmail.com] · [+4917670000336] · [linkedin.com/in/tegarsosieverest]
-
+###### [[Tegar's LinkedIn](linkedin.com/in/tegarsosieverest)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 ---
 
 ## Experience

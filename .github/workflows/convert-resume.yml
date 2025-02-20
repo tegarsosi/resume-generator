@@ -18,40 +18,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup Pandoc
+      - name: Setup Environment
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
-      
-      - name: Convert MD to PDF
-        run: |
-          # Create pdfs directory if it doesn't exist
+          wget https://github.com/jgm/pandoc/releases/download/3.1.9/pandoc-3.1.9-1-amd64.deb
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+          sudo apt install ./pandoc-3.1.9-1-amd64.deb
+          sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
           mkdir -p pdfs
-          
-          # Convert English resume if it exists
+      
+      - name: Convert MD to HTML and PDF
+        run: |
+          # Process English resume
           if [ -f "markdowns/resume_eng.md" ]; then
             echo "Converting English resume"
-            pandoc markdowns/resume_eng.md -o pdfs/resume_eng.pdf
+            pandoc markdowns/resume_eng.md -f markdown -t html -c templates/resume.css -s -o pdfs/resume_eng.html
+            wkhtmltopdf --enable-local-file-access pdfs/resume_eng.html pdfs/resume_eng.pdf
           fi
           
-          # Convert German resume if it exists
+          # Process German resume
           if [ -f "markdowns/resume_ger.md" ]; then
             echo "Converting German resume"
-            pandoc markdowns/resume_ger.md -o pdfs/resume_ger.pdf
+            pandoc markdowns/resume_ger.md -f markdown -t html -c templates/resume.css -s -o pdfs/resume_ger.html
+            wkhtmltopdf --enable-local-file-access pdfs/resume_ger.html pdfs/resume_ger.pdf
           fi
       
-      - name: Commit PDF
+      - name: Commit PDFs
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # Add PDFs if they exist
-          if [ -f "pdfs/resume_eng.pdf" ]; then
-            git add pdfs/resume_eng.pdf
-          fi
-          if [ -f "pdfs/resume_ger.pdf" ]; then
-            git add pdfs/resume_ger.pdf
-          fi
-          
-          git commit -m "Auto-generate PDF from markdown" || exit 0
+          git add pdfs/*.pdf
+          git commit -m "Auto-generate PDFs from markdown" || exit 0
           git push 

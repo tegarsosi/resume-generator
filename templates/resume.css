@@ -1,0 +1,60 @@
+body {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+.contact-info {
+    text-align: center;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.contact-info a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+strong {
+    color: #2c3e50;
+}
+
+.job-title {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.job-date {
+    color: #666;
+    font-style: italic;
+} 
