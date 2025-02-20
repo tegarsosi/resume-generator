@@ -17,21 +17,11 @@ When changes are pushed to any `resume_*.md` file in the main branch, GitHub Act
 2. Converts the modified Markdown files to PDF
 3. Commits and pushes the generated PDFs back to the repository
 
-## File Structure 
-.
-├── resume_eng_v1.md     # English version of resume
-├── resume_eng_v1.pdf    # Auto-generated English PDF
-├── resume_ger_v1.md     # German version of resume
-├── resume_ger_v1.pdf    # Auto-generated German PDF
-└── .github/
-    └── workflows/
-        └── convert-resume.yml  # GitHub Actions workflow
-
 ## Usage
 
 1. Create your resume in markdown format following the naming convention:
-   - `resume_[language]_v[number].md`
-   - Example: `resume_eng_v1.md`, `resume_ger_v2.md`
+   - `resume_[language].md`
+   - Example: `resume_eng.md`, `resume_ger.md`
 
 2. Write your resume using standard markdown syntax
    - Use headers (#, ##) for sections

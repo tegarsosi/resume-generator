@@ -1,5 +1,8 @@
 name: Convert Resume to PDF
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
