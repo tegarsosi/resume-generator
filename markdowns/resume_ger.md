@@ -64,3 +64,9 @@ Abschlussnote: 2,8
 - **Versionskontrolle**: Git
 
 ---
+
+## Hobbies & Interessen
+
+- **Lesen**: Genieße das Erkunden von Non-Fiction, Self-Help und Fiction Genres.
+- **Sport**: Aktiv am Badminton, Tischtennis und Laufen.
+- **Musik**: Spiele gerne Klavier und höre verschiedene Musikrichtungen.

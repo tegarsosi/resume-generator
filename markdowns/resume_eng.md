@@ -62,5 +62,8 @@ February 2017 - January 2018, Greifswald, Germany
 
 ---
 
-## Achievements & Projects
+## Hobbies & Interests
 
+- **Reading**: Enjoy exploring non-fiction, self-help, and fiction genres.
+- **Sports**: Actively participate in badminton, table tennis, and running.
+- **Music**: Passionate about playing the piano and enjoy listening to wide range of music.
