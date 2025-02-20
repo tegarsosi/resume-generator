@@ -16,6 +16,7 @@ September 2023 - present, Berlin, Germany
 
 - Architected and implemented robust backend systems using Python, focusing on scalable API development and integration with third-party services
 - Developed and optimized AI agents to improve system performance and user interactions
+- Developed Topic-Modeling algorithms for chat analysis
 - Implemented prompt engineering to improve AI model responses and create more efficient interaction patterns
 
 
@@ -31,12 +32,6 @@ September 2022 - December 2022, Berlin, Germany
 - Engineered interactive data visualization solutions using Retool, combining SQL queries and JavaScript to create intuitive dashboards for stakeholders
 - Implemented automated data analysis pipelines using Python Pandas, significantly reducing manual data processing time and improving accuracy
 
-**Working Student - Customer Service, Enpal GmbH**
-August 2021 - December 2022, Berlin, Germany
-
-- Managed and maintained critical customer data within the CRM system, ensuring data accuracy and compliance with privacy regulations
-- Demonstrated excellent communication skills by efficiently handling diverse customer inquiries and coordinating with cross-functional teams
-
 ---
 
 ## Education
@@ -44,6 +39,9 @@ August 2021 - December 2022, Berlin, Germany
 **Computer Science B.Sc., HAW Hamburg**
 March 2018 - September 2023, Hamburg, Germany
 - GPA: 2.13
+
+**Academic Projects**
+- Bachelor Thesis: "Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"
 
 **Abitur, University of Greifswald Study College**
 February 2017 - January 2018, Greifswald, Germany
@@ -61,3 +59,6 @@ February 2017 - January 2018, Greifswald, Germany
 - **Version Control**: Git
 
 ---
+
+## Achievements & Projects
+
