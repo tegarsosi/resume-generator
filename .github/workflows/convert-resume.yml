@@ -24,17 +24,34 @@ jobs:
       
       - name: Convert MD to PDF
         run: |
+          # List all markdown files for debugging
+          echo "Found markdown files:"
+          ls resume_*.md || echo "No markdown files found"
+          
+          # Convert each file
           for file in resume_*.md; do
             if [ -f "$file" ]; then
+              echo "Converting $file to PDF"
               pdf_file="${file%.md}.pdf"
               pandoc "$file" -o "$pdf_file"
+              echo "Generated $pdf_file"
             fi
           done
+          
+          # List generated PDFs
+          echo "Generated PDF files:"
+          ls resume_*.pdf || echo "No PDF files generated"
       
       - name: Commit PDF
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add resume_*.pdf
-          git commit -m "Auto-generate PDF from markdown" || exit 0
-          git push 
+          # Only proceed if PDFs exist
+          if ls resume_*.pdf 1> /dev/null 2>&1; then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add resume_*.pdf
+            git commit -m "Auto-generate PDF from markdown" || exit 0
+            git push
+          else
+            echo "No PDFs to commit"
+            exit 0
+          fi 
