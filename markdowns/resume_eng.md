@@ -8,12 +8,17 @@ author:
   - tegarsosi
 ---
 
+<div style="text-align: center;">
+  <h1>Tegar Sosi Everest</h1>
+</div>
+
 ###### [[Tegar's LinkedIn](linkedin.com/in/tegarsosieverest)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
+
 ---
 
 ## Experience
 
-**AI Software Engineer, Paul's Job GmbH**
+**AI Software Engineer, Paul's Job GmbH**  
 September 2023 - present, Berlin, Germany
 
 - Architected and implemented robust backend systems using Python, focusing on scalable API development and integration with third-party services
@@ -22,13 +27,14 @@ September 2023 - present, Berlin, Germany
 - Implemented prompt engineering to improve AI model responses and create more efficient interaction patterns
 
 
-**Working Student and Bachelor's Candidate, Paul's Job GmbH**
+**Working Student and Bachelor's Candidate, Paul's Job GmbH (hyrd GmbH)** 
 January 2023 - September 2023, Berlin, Germany
 
 - Conducted comprehensive data analysis using Pandas, transforming raw data into actionable insights for business decision-making
 - Developed and fine-tuned machine learning models, implementing best practices in model training and validation to achieve optimal performance metrics
 
-**Intern, Paul's Job GmbH**
+
+**Intern, Paul's Job GmbH (hyrd GmbH)**  
 September 2022 - December 2022, Berlin, Germany
 
 - Engineered interactive data visualization solutions using Retool, combining SQL queries and JavaScript to create intuitive dashboards for stakeholders
@@ -38,15 +44,15 @@ September 2022 - December 2022, Berlin, Germany
 
 ## Education
 
-**Computer Science B.Sc., HAW Hamburg**
-March 2018 - September 2023, Hamburg, Germany
+**Computer Science B.Sc., HAW Hamburg**  
+March 2018 - September 2023, Hamburg, Germany  
 - GPA: 2.13
 
-**Academic Projects**
+**Academic Projects**  
 - Bachelor Thesis: "Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"
 
-**Abitur, University of Greifswald Study College**
-February 2017 - January 2018, Greifswald, Germany
+**Abitur, University of Greifswald Study College**  
+February 2017 - January 2018, Greifswald, Germany  
 - GPA: 2.8
 
 ---
@@ -66,4 +72,4 @@ February 2017 - January 2018, Greifswald, Germany
 
 - **Reading**: Enjoy exploring non-fiction, self-help, and fiction genres.
 - **Sports**: Actively participate in badminton, table tennis, and running.
-- **Music**: Passionate about playing the piano and enjoy listening to wide range of music.
+- **Music**: Passionate about playing the piano and enjoy listening to a wide range of music.

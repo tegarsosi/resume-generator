@@ -8,13 +8,17 @@ author:
   - tegarsosi
 ---
 
+<div style="text-align: center;">
+  <h1>Tegar Sosi Everest</h1>
+</div>
+
 ###### [[Tegar's LinkedIn](linkedin.com/in/tegarsosieverest)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
 
 ## Berufliche Erfahrungen
 
-**AI Software Engineer, Paul's Job GmbH**
+**AI Software Engineer, Paul's Job GmbH** 
 September 2023 - aktuell, Berlin
 
 - Experimentieren mit und Verfeinern von Prompt-Engineering-Strategien, um bessere Ergebnisse aus KI-Modellen herauszuholen
@@ -23,7 +27,7 @@ September 2023 - aktuell, Berlin
 - Umsetzung von APIs mit FastAPI, mit Fokus auf eine klare und gut strukturierte Architektur.
 
 
-**Werkstudent & Bachelorand, Paul's Job GmbH (hyrd GmbH)**
+**Werkstudent & Bachelorand, Paul's Job GmbH (hyrd GmbH)**  
 Januar 2023 - September 2023, Berlin
 
 - Analyse von Daten mit Pandas, um geschäftsrelevante Erkenntnisse zu gewinnen
