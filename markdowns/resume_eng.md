@@ -8,10 +8,6 @@ author:
   - tegarsosi
 ---
 
-<div style="text-align: center;">
-  <h1>Tegar Sosi Everest</h1>
-</div>
-
 ###### [[Tegar's LinkedIn](linkedin.com/in/tegarsosieverest)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
