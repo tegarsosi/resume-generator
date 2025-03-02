@@ -39,16 +39,14 @@ September 2022 - Dezember 2022, Berlin
 
 ## Ausbildung
 
-**B.Sc. Mechatronik**
-HAW Hamburg
+**B.Sc. Mechatronik, Hochschule für Angewandte Wissenschaften Hamburg**
 03/2018 - 09/2023
 Abschlussnote: 2,13
 
 **Akademische Projekte**
 - Bachelorarbeit: "Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"
 
-**Abitur**
-Studienkolleg der Universität Greifswald
+**Abitur, Studienkolleg an der Universität Greifswald**
 02/2017 - 01/2018
 Abschlussnote: 2,8
 

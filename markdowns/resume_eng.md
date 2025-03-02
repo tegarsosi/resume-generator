@@ -40,14 +40,14 @@ September 2022 - December 2022, Berlin, Germany
 
 ## Education
 
-**Mechatronics B.Sc., HAW Hamburg**  
+**Mechatronics B.Sc., Hamburg University of Applied Sciences**  
 March 2018 - September 2023, Hamburg, Germany  
 - GPA: 2.13
 
 **Academic Projects**  
 - Bachelor Thesis: "Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"
 
-**Abitur, University of Greifswald Study College**  
+**Studienkolleg at University of Greifswald**  
 February 2017 - January 2018, Greifswald, Germany  
 - GPA: 2.8
 
