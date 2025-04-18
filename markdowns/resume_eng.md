@@ -1,6 +1,17 @@
+---
+margin-left: 2cm
+margin-right: 2cm
+margin-top: 1cm
+margin-bottom: 2cm
+title: Tegar Sosi Everest
+author:
+  - tegarsosi
+---
+
 ###### [[LinkedIn](linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
+
 ## Summary
 **AI-Focused Software Engineer** with **3 years** of experience developing backend systems and AI-driven applications using **Python, FastAPI, and SQL**. Skilled in **agentic AI** approaches, **LangChain**, and **prompt engineering**, with hands-on experience deploying **LLM-powered features** in production. Quick learner, team-oriented, and comfortable in fast-paced, multicultural environments.
 

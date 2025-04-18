@@ -1,6 +1,17 @@
+---
+margin-left: 2cm
+margin-right: 2cm
+margin-top: 1cm
+margin-bottom: 2cm
+title: Tegar Sosi Everest
+author:
+  - tegarsosi
+---
+
 ###### [[LinkedIn](linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
+
 ## Profil
 **KI-orientierter Softwareentwickler** mit **3 Jahren** Erfahrung in der Entwicklung skalierbarer Backend-Systeme und KI-gestützter Anwendungen unter Verwendung von **Python, FastAPI und SQL**. Erfahrung mit **agentic AI, LangChain und Prompt Engineering** sowie in der produktiven Implementierung von **LLM-basierten Features**. *Quick learner*, teamorientiert und erfahren im Arbeiten in multikulturellen, dynamischen Umgebungen.
 
@@ -36,7 +47,7 @@ September 2022 - Dezember 2022, Berlin
 - Abschlussnote: 2,13
 
 **Akademische Projekte**
-- Bachelorarbeit: *"Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"*
+- Bachelorarbeit: "*Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models*"
 
 **Abitur, Studienkolleg an der Universität Greifswald**  
 02/2017 - 01/2018
