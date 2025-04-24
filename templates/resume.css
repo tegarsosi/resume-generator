@@ -1152,3 +1152,24 @@
  .author {
      display: none
  }
+
+li {
+    word-spacing: 0.05em !important;
+    letter-spacing: 0.01em !important;
+}
+
+li strong {
+    display: inline-block;
+    padding-left: 0.05em;
+    padding-right: 0.05em;
+}
+
+/* This prevents words from running together */
+* {
+    white-space: normal !important;
+}
+
+/* Specifically target the list items in the experience section */
+p + ul li {
+    word-break: keep-all;
+}

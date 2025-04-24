@@ -21,8 +21,8 @@ author:
 September 2023 - present, Berlin, Germany
 
 - Architected and implemented **5+ production-ready REST APIs** using **FastAPI** to support scalable backend infrastructure
-- Designed and deployed **AI agents** in production within a chatbot, enabling users to  **apply for over 1,000 jobs** and initiate **1,400+ data collection processes** in Q1 2025 alone
-- Engineered **prompt strategies** to optimize agent behavior and task execution, leading to a  **12% increase in job applcations within the first week** after deployment
+- Designed and deployed **AI agents** in production within a chatbot, enabling users to **apply for over 1,000 jobs** and initiate **1,400+ data collection processes** in Q1 2025 alone
+- Engineered **prompt strategies** to optimize agent behavior and task execution, leading to a **12% increase in job applcations within the first week** after deployment
 - Built a weekly-updated topic modeling pipeline leveraging **LLMs for unsupervised theme extraction** from user-chat data, with daily inference enabling HR users to discover **trending topics** and **conversation patterns**
 
 **Working Student and Bachelor's Candidate, Paul's Job GmbH (hyrd GmbH)**   
