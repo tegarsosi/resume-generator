@@ -4,8 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Tegar Sosi Everest
-author:
-  - tegarsosi
+
 ---
 
 ###### [[LinkedIn](linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
