@@ -41,10 +41,6 @@ March 2018 - September 2023, Hamburg, Germany
 **Academic Projects**  
 - Bachelor Thesis: "*Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models*"
 
-**Studienkolleg at University of Greifswald**  
-February 2017 - January 2018, Greifswald, Germany  
-- GPA: 2.8
-
 ---
 
 ## Skills
