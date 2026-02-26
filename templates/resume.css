@@ -1,28 +1,28 @@
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10px;
-    line-height: 1.6;
+    font-size: 9.5px;
+    line-height: 1.4;
     color: #111;
     background: #fff;
-    padding: 2cm;
+    padding: 1.5cm 2cm;
     margin: 0;
   }
   
   h1.title {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     margin-bottom: 0.3em;
   }
   
   h2 {
-    font-size: 16px;
+    font-size: 13px;
     border-bottom: 1px solid #ccc;
-    margin-top: 2em;
+    margin-top: 1.2em;
     margin-bottom: 0.5em;
   }
   
   h6 {
-    font-size: 12px;
+    font-size: 9px;
     text-align: center;
     color: #777;
     margin-bottom: 1em;
@@ -31,7 +31,7 @@ body {
   ul {
     padding-left: 1.4em;
     margin-top: 0.2em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
   
   li {
@@ -45,7 +45,7 @@ body {
   }
   
   p {
-    margin: 0.5em 0;
+    margin: 0.3em 0;
   }
   
   hr {
