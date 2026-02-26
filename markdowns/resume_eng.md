@@ -17,7 +17,7 @@ title: Tegar Sosi Everest
 ## Experience
 
 **AI Software Engineer, Paul's Job GmbH**  
-September 2023 - present, Berlin, Germany
+September 2023 - September 2025, Berlin, Germany
 
 - Architected and implemented **5+ production-ready REST APIs** using **FastAPI** to support scalable backend infrastructure
 - Designed and deployed **AI agents** in production within a chatbot, enabling users to **apply for over 1,000 jobs** and initiate **1,400+ data collection processes** in Q1 2025 alone
@@ -29,12 +29,6 @@ January 2023 - September 2023, Berlin, Germany
 
 - Contributed to a company research project focused on **predicting professional experience requirements** from job ads, conducted as part of a Bachelor’s thesis
 - Fine-tuned and evaluated five **multilingual transformer-based NLP models** (e.g., BERT, XLMR, JobGBERT), achieving **F1-scores** up to **0.87**, and implemented an ensemble **Voting Classifier** that improved results by **4.6%**
-
-
-**Intern, Paul's Job GmbH (hyrd GmbH)**  
-September 2022 - December 2022, Berlin, Germany
-
-- Engineered interactive data visualization solutions using Retool, combining **SQL queries** and **JavaScript** to create **intuitive dashboards** for stakeholders
 
 ---
 
