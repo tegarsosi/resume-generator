@@ -12,7 +12,7 @@ title: Tegar Sosi Everest
 ---
 
 ## Profil
-**KI-orientierter Softwareentwickler** mit **3 Jahren** Erfahrung in der Entwicklung skalierbarer Backend-Systeme und KI-gestützter Anwendungen unter Verwendung von **Python, FastAPI und SQL**. Erfahrung mit **agentic AI, LangChain und Prompt Engineering** sowie in der produktiven Implementierung von **LLM-basierten Features**. *Quick learner*, teamorientiert und erfahren im Arbeiten in multikulturellen, dynamischen Umgebungen.
+**AI Engineer** mit **2+ Jahren** Erfahrung in der Entwicklung skalierbarer Backend-Systeme und KI-gestützter Anwendungen unter Verwendung von **Python, FastAPI und SQL**. Erfahrung mit **agentic AI, LangChain und Prompt Engineering** sowie in der produktiven Implementierung von **LLM-basierten Features**. *Quick learner*, teamorientiert und erfahren im Arbeiten in multikulturellen, dynamischen Umgebungen.
 
 
 ## Berufliche Erfahrungen

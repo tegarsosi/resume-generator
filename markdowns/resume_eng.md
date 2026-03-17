@@ -12,7 +12,7 @@ title: Tegar Sosi Everest
 ---
 
 ## Summary
-**AI-Focused Software Engineer** with **2 years** of experience developing backend systems and AI-driven applications using **Python, FastAPI, and SQL**. Skilled in **agentic AI** approaches, **LangChain**, and **prompt engineering**, with hands-on experience deploying **LLM-powered features** in production. Quick learner, team-oriented, and comfortable in fast-paced, multicultural environments.
+**AI Engineer** with **2+ years** of experience developing backend systems and AI-driven applications using **Python, FastAPI, and SQL**. Skilled in **agentic AI** approaches, **LangChain**, and **prompt engineering**, with hands-on experience deploying **LLM-powered features** in production. .Proven ability to navigate the full development lifecycle, from rapid prototyping to deploying scalable production code in high-growth, multicultural environments.
 
 ## Experience
 
