@@ -7,28 +7,29 @@ title: Tegar Sosi Everest
 
 ---
 
-###### [[LinkedIn](linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
+###### [[LinkedIn](https://linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
 
 ## Summary
-AI Engineer with 2+ years of experience developing backend systems and AI-driven applications using Python, FastAPI, and SQL. Skilled in agentic AI approaches, LangChain, and prompt engineering, with hands-on experience deploying LLM-powered features in production. .Proven ability to navigate the full development lifecycle, from rapid prototyping to deploying scalable production code in high-growth, multicultural environments.
+AI Engineer with 2+ years building production LLM systems and autonomous AI agents. Shipped agentic pipelines that enabled 1,000+ job applications in a single quarter, and engineered prompt strategies that delivered a 12% uplift in task success within one week of deployment. Hands-on experience across the full GenAI stack: LLM integration, RAG pipelines, agentic orchestration, and scalable REST APIs, deployed on AWS Lambda and Docker in production environments.
+
 
 ## Experience
 
-**AI Software Engineer, Paul's Job GmbH**  
+**AI Engineer, Paul's Job GmbH**  
 September 2023 - September 2025, Berlin, Germany
 
-- Designed and deployed autonomous AI agents within a production chatbot, directly enabling users to apply for over 1,000 jobs and trigger 1,400+ data collection processes in a single quarter (Q1 2025)
-- Engineered prompt strategies to optimize multi-step agent behavior and task execution, delivering a 12% uplift in successful job applcations within the one week of deployment
-- Built an end-to-end topic modelling pipeline combining LLM-based inference with unsupervised theme extraction from live chat data, refreshed weekly with daily inference, giving HR clients real-time visibility into user conversation trends
-- Architected and implemented 5+ production-ready REST APIs using FastAPI to support scalable backend infrastructure
+- Designed and deployed autonomous AI agents within a production chatbot using LangChain and OpenAI APIs, directly enabling users to apply for **1,000+ jobs** and trigger **1,400+ data collection processes** in a single quarter (Q1 2025)
+- Engineered multi-step prompt strategies and agent tool-use workflows, delivering a **12% uplift** in successful job applications within one week of deployment
+- Built an end-to-end topic modelling pipeline combining LLM-based inference with unsupervised embedding clustering on live chat data, refreshed weekly with daily inference giving HR clients real-time visibility into conversation trends
+- Architected and shipped **5+ production REST APIs** using FastAPI, containerised with Docker and deployed on AWS Lambda; integrated into a high-traffic multi-tenant backend
 
 **Working Student and Bachelor's Candidate, Paul's Job GmbH (hyrd GmbH)**   
 January 2023 - September 2023, Berlin, Germany
 
-- Fine-tuned and benchmarked 5 multilingual transformer models (BERT, XLM-R, JobGBERT) for experience-level classification from job ads, reaching F1-scores up to 0.87
-- Designed and implemented an ensemble Voting Classifier that outperformed the best single model by 4.6 percentage points. The result was published as part of a Bachelor's thesis and contributed to an active company research project
+- Fine-tuned and benchmarked **5 multilingual transformer models** (BERT, XLM-R, JobGBERT) for experience-level classification from job advertisements, reaching F1-scores up to **0.87**
+- Designed an ensemble Voting Classifier that outperformed the best single model by **4.6 percentage points**; results published as part of Bachelor's thesis and contributed to an active company research project
 
 ---
 
@@ -36,18 +37,16 @@ January 2023 - September 2023, Berlin, Germany
 
 **Mechatronics B.Sc., Hamburg University of Applied Sciences**  
 March 2018 - September 2023, Hamburg, Germany  
-- GPA: 2.13
 
-**Academic Projects**  
-- Bachelor Thesis: "*Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models*"
+- Thesis: "*Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models*"
 
 ---
 
 ## Skills
 
-- **Languages**: English (C1), German (C1), Indonesian (Native)
 - **Programming Languages**: Python, JavaScript, SQL
+- **AI & LLM**: LangChain, OpenAI API, Prompt Engineering, AI Agent Development, RAG Pipelines, Embeddings, LLM Evaluation, Transformer Models (BERT, XLM-R), Model Fine-tuning, Hugging Face
 - **Backend**: FastAPI
-- **AI & ML**: Prompt Engineering, AI Agent Development, Model Training, LangChain
-- **Cloud & DevOps**: Docker, AWS Lambda
-- **Version Control**: Git
+- **Cloud & DevOps**: Docker, AWS Lambda, Git, CI/CD
+- **Human Languages**: English (C1), German (C1), Indonesian (Native)
+
