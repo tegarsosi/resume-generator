@@ -11,8 +11,6 @@ title: Tegar Sosi Everest
 
 ---
 
-## Profil
-**AI Engineer** mit **2+ Jahren** Erfahrung im Aufbau produktiver LLM-Systeme und autonomer KI-Agenten. Entwickelte agentische Pipelines, die **1.000+ Bewerbungen in einem einzigen Quartal** ermöglichten, und engineerte Prompt-Strategien, die innerhalb einer Woche nach Deployment zu einem **Uplift von 12%** bei der Aufgabenerfolgsrate führten. Praktische Erfahrung im gesamten GenAI-Stack: LLM-Integration, RAG-Pipelines, agentische Orchestrierung und skalierbare REST APIs, deployed auf AWS Lambda und Docker in Produktionsumgebungen.
 
 ## Berufliche Erfahrungen
 

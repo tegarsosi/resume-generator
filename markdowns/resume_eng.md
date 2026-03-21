@@ -11,9 +11,6 @@ title: Tegar Sosi Everest
 
 ---
 
-## Summary
-AI Engineer with 2+ years building production LLM systems and autonomous AI agents. Shipped agentic pipelines that enabled 1,000+ job applications in a single quarter, and engineered prompt strategies that delivered a 12% uplift in task success within one week of deployment. Hands-on experience across the full GenAI stack: LLM integration, RAG pipelines, agentic orchestration, and scalable REST APIs, deployed on AWS Lambda and Docker in production environments.
-
 
 ## Experience
 
