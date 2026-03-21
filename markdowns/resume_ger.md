@@ -7,30 +7,28 @@ title: Tegar Sosi Everest
 
 ---
 
-###### [[LinkedIn](linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
+###### [[LinkedIn](https://linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
 
 ## Profil
-**AI Engineer** mit **2+ Jahren** Erfahrung in der Entwicklung skalierbarer Backend-Systeme und KI-gestützter Anwendungen unter Verwendung von **Python, FastAPI und SQL**. Erfahrung mit **agentic AI, LangChain und Prompt Engineering** sowie in der produktiven Implementierung von **LLM-basierten Features**. *Quick learner*, teamorientiert und erfahren im Arbeiten in multikulturellen, dynamischen Umgebungen.
-
+**AI Engineer** mit **2+ Jahren** Erfahrung im Aufbau produktiver LLM-Systeme und autonomer KI-Agenten. Entwickelte agentische Pipelines, die **1.000+ Bewerbungen in einem einzigen Quartal** ermöglichten, und engineerte Prompt-Strategien, die innerhalb einer Woche nach Deployment zu einem **Uplift von 12%** bei der Aufgabenerfolgsrate führten. Praktische Erfahrung im gesamten GenAI-Stack: LLM-Integration, RAG-Pipelines, agentische Orchestrierung und skalierbare REST APIs, deployed auf AWS Lambda und Docker in Produktionsumgebungen.
 
 ## Berufliche Erfahrungen
 
-**KI-orientierter Softwareentwickler, Paul's Job GmbH**  
-September 2023 - aktuell, Berlin
+**AI Engineer, Paul's Job GmbH**  
+September 2023 - September 2025, Berlin
 
-- Entwickelt und implementiert **5+ *production-ready* REST APIs** mit **FastAPI** zur Unterstützung einer skalierbaren Backend-Infrastruktur
-- **KI-Agenten** in einem produktiven Chatbot-System konzipiert und deployed, wodurch Nutzer:innen im Q1 2025 **über 1.000 Bewerbungen einreichen** und **mehr als 1.400 Datenerfassungen** durchführen konnten
-- **Prompt-Strategien** entwickelt, um das Verhalten der Agenten und die Ausführung von Aufgaben zu optimieren. Dies führte innerhalb der ersten Woche nach dem Deployment zu einem Anstieg der **Bewerbungen um 12%**
-- Eine wöchentliche Topic-Modeling-Pipeline entwickelt, die mithilfe von **LLMs und unsupervised learning** Chatverläufe analysiert. Die tägliche inference ermöglicht HR-Teams, **trending topics** und **conversation patterns** zu identifizieren.
-
+- Konzipierte und deployed autonome **KI-Agenten** in einem produktiven Chatbot-System mit LangChain und OpenAI APIs – ermöglichte Nutzer:innen im Q1 2025 **über 1.000 Bewerbungen** und **mehr als 1.400 Datenerfassungsprozesse** in einem einzigen Quartal
+- Entwickelte mehrstufige **Prompt-Strategien** und Agent-Tool-Use-Workflows, die innerhalb einer Woche nach Deployment zu einem **Uplift von 12%** bei erfolgreichen Bewerbungen führten
+- Entwickelte eine End-to-End-**Topic-Modeling-Pipeline**, die LLM-basierte Inferenz mit unsupervised Embedding-Clustering auf Live-Chat-Daten kombiniert – wöchentlich aktualisiert mit täglicher Inferenz für Echtzeit-Einblicke in Gesprächstrends für HR-Kunden
+- Architekturiert und shipped **5+ produktive REST APIs** mit FastAPI, containerisiert mit Docker und deployed auf AWS Lambda; integriert in ein hochfrequentiertes Multi-Tenant-Backend
 
 **Werkstudent & Bachelorand, Paul's Job GmbH (hyrd GmbH)**  
 Januar 2023 - September 2023, Berlin
 
-- Beitrag zu einem Unternehmensforschungsprojekt zur **Vorhersage von Berufserfahrungsanforderungen aus Stellenanzeigen**, durchgeführt im Rahmen einer Bachelorarbeit
-- Optimierte und evaluierte fünf mehrsprachige **Transformer-basierte NLP-Modelle** (z.B. BERT, XLMR, JobGBERT), erreichte **F1-Scores** von bis zu **0,87** und implementierte einen **Voting Classifier im Ensemble**, der die Ergebnisse um **4,6%** verbesserte
+- Fine-tuned und benchmarked **5 mehrsprachige Transformer-Modelle** (BERT, XLM-R, JobGBERT) zur Erfahrungslevel-Klassifikation aus Stellenanzeigen – erreichte F1-Scores von bis zu **0,87**
+- Entwickelte einen Ensemble-**Voting Classifier**, der das beste Einzelmodell um **4,6 Prozentpunkte** übertraf; Ergebnisse als Teil der Bachelorarbeit veröffentlicht und in ein aktives Unternehmensforschungsprojekt eingebracht
 
 **Praktikant, Paul's Job GmbH (hyrd GmbH)**  
 September 2022 - Dezember 2022, Berlin
@@ -43,22 +41,14 @@ September 2022 - Dezember 2022, Berlin
 
 **B.Sc. Mechatronik, Hochschule für Angewandte Wissenschaften Hamburg**  
 03/2018 - 09/2023
-- Abschlussnote: 2,13
-
-**Akademische Projekte**
-- Bachelorarbeit: "*Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models*"
-
-**Abitur, Studienkolleg an der Universität Greifswald**  
-02/2017 - 01/2018
-- Abschlussnote: 2,8
+- Bachelorarbeit: *„Predicting Professional Experience Requirements from Job Advertisements using Multilingual Transformer based NLP Models"*
 
 ---
 
 ## Fachkenntnisse
 
+- **Programmiersprachen**: Python, JavaScript, SQL
+- **KI & LLM**: LangChain, OpenAI API, Prompt Engineering, KI-Agenten, RAG-Pipelines, Embeddings, LLM-Evaluation, Transformer-Modelle (BERT, XLM-R), Model Fine-tuning, Hugging Face
+- **Backend**: FastAPI
+- **Cloud & DevOps**: Docker, AWS Lambda, Git, CI/CD
 - **Sprachen**: Englisch (C1), Deutsch (C1), Indonesisch (Muttersprache)
-- **Programmierung**: Python, JavaScript, SQL
-- **Backend-Entwicklung**: FastAPI
-- **KI & Machine Learning**: Prompt Engineering, KI-Agenten, Modellentwicklung, LangChain
-- **Cloud & DevOps**: Docker, AWS Lambda
-- **Versionskontrolle**: Git
