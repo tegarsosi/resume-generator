@@ -67,7 +67,7 @@ body {
     margin-bottom: 0.4em;
     text-align: justify;
     hyphens: auto;
-    word-break: break-word;
+    overflow-wrap: anywhere;
   }
   
   li strong {
@@ -78,7 +78,7 @@ body {
     margin: 0.2em 0;
     text-align: justify;
     hyphens: auto;
-    word-break: break-word;
+    overflow-wrap: anywhere;
   }
   
   hr {

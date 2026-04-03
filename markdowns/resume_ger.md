@@ -10,6 +10,7 @@ title: Tegar Sosi Everest
 ###### [[LinkedIn](https://linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [[Portfolio](https://tegar-everest.vercel.app/)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
+
 ## Persönliches Profil
 KI-Ingenieur mit Fokus auf LLM-Systeme, mit Erfahrung in autonomen Agenten, RAG-Pipelines und Transformer-Fine-Tuning. Ein Hintergrund in Mechatronik hat den Blick für Systemdenken und saubere Architektur geschärft. Arbeitet gerne an der Schnittstelle von ML-Grundlagen und praktischer Backend-Entwicklung, mit Python, FastAPI und Docker als tägliches Handwerkszeug.
 
