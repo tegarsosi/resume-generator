@@ -7,10 +7,12 @@ title: Tegar Sosi Everest
 
 ---
 
-###### [[LinkedIn](https://linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
+###### [[LinkedIn](https://linkedin.com/in/tegarsosieverest)] . [[Github](https://github.com/tegarsosi)] . [[Portfolio](https://tegar-everest.vercel.app/)] . [tegar.sosi@gmail.com] . [+49 176 7000 0336]
 
 ---
 
+## Profile Summary
+AI Engineer focused on LLM systems, with experience in autonomous agents, RAG pipelines, and transformer fine-tuning. A background in Mechatronics shaped my approach to systems thinking and clean architecture. I enjoy working at the intersection of ML fundamentals and practical backend development, with Python, FastAPI, and Docker as my daily tools.
 
 ## Experience
 
